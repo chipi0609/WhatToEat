@@ -19,7 +19,7 @@ From the basic App we extend to a more functional and usable one, which, in a se
 * A more user-friendly UI
   - A welcome page when the App is loading
   - Buttons for users to set constraints
-  - Enable user to enter personal information
+  - Enable users to enter personal information
   
 ### Adding database to store user information (2-3 weeks)
 
